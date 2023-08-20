@@ -26,3 +26,11 @@ Test reading `data/cat.pdf` file.
 > python chatgpt.py "what is my cat's name"
 Your cat's name is Muffy.
 ```
+
+## Bug
+
+Problem when installing chromadb
+
+So, I use anacoda env with python 3.9 and must install Visual C++ Build Tools like explained in the SO answer
+
+https://stackoverflow.com/a/76791289/2107253
